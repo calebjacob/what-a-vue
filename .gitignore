@@ -1,5 +1,5 @@
 .DS_Store
-node_modules
+./node_modules
 app/public/dist
 secrets.json
 npm_debug.log
